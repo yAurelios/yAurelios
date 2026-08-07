@@ -1,5 +1,5 @@
 ## Hello World! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=30&duration=4000&pause=986&color=F70000&width=435&lines=Grupo+5+-+IA%2FCD;Viver+para+pagar+ou+pagar+para+viver%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=4000&pause=986&color=F70000&width=435&lines=Grupo+5+-+IA%2FCD;Viver+para+pagar+ou+pagar+para+viver%3F)](https://git.io/typing-svg)
 <br>
 
 ### Membros do Grupo
